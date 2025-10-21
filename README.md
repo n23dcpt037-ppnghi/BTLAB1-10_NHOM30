@@ -30,7 +30,7 @@
 ## 💦 Công nghệ sử dụng
 - Ngôn ngữ: JavaScript
 - IDE: Visual Studio Code
-- CSDL: MySQL / PostgreSQL
+- CSDL: MySQL 
 - Quản lý phiên bản: Git + GitHub
 - Mô hình phát triển: Agile – Scrum
 
