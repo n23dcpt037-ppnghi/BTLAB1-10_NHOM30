@@ -11,10 +11,8 @@
 
 ## 💦 Thành viên nhóm
 
-- Trần Thanh Hà – Leader ₍^. .^₎⟆
-
-- Phan Phương Nghi – Member ₍ᐢ. .ᐢ₎
-
+- Phan Phương Nghi – Leader ₍ᐢ. .ᐢ₎
+- Trần Thanh Hà – Member ₍^. .^₎⟆
 - Đỗ Ngọc Cát Tường - Member (•˕ •マ.ᐟ
 
 ## 💦 Use Case chính
